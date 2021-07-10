@@ -4,7 +4,7 @@
     <Set name="contextPath">/</Set>
     <Set name="handler">
         <New class="org.eclipse.jetty.server.handler.ResourceHandler">
-            <Set name="resourceBase">/jetty/hi</Set>
+            <Set name="resourceBase">/jetty</Set>
             <Set name="directoriesListed">true</Set>
         </New>
     </Set>
