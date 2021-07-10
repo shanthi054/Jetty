@@ -1,5 +1,5 @@
 
-FROM alpine:latest
+FROM ubuntu:latest
 MAINTAINER shanthi surampudi
 
 ENV JAVA_HOME=/usr/lib/jvm/java-1.8-openjdk/jre \
